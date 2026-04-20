@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/laba1KPP.iml" filepath="$PROJECT_DIR$/laba1KPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zavd1KPP/zavd1KPP.iml" filepath="$PROJECT_DIR$/zavd1KPP/zavd1KPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zavd2KPP/zavd2KPP.iml" filepath="$PROJECT_DIR$/zavd2KPP/zavd2KPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zavd3KPP/zavd3KPP.iml" filepath="$PROJECT_DIR$/zavd3KPP/zavd3KPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zavd4KPP/zavd4KPP.iml" filepath="$PROJECT_DIR$/zavd4KPP/zavd4KPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zavd5KPP/zavd5KPP.iml" filepath="$PROJECT_DIR$/zavd5KPP/zavd5KPP.iml" />
+    </modules>
+  </component>
+</project>
